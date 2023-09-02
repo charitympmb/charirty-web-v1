@@ -1,0 +1,32 @@
+body{
+    background-image: url(images/laptop-1483974_1280.jpg);
+}
+
+
+
+.title{
+    font-size: 80px;
+    text-align: center;
+    background-color: rgb(202, 235, 235);
+}
+
+.mycontent{
+    margin-left: 500px ;
+    margin-right: 500px;
+    background-color: rgb(7, 47, 63);
+    color: white;
+}
+
+h2{
+    font-size: 50px;
+    color: aquamarine;
+}
+
+a{
+    color: white;
+    font-size: 20px;
+}
+
+a:hover{
+    color: greenyellow;
+}
